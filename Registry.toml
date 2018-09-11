@@ -1,0 +1,8 @@
+name = "JuliaPOMDP"
+uuid = "24473b4a-b5e7-11e8-1723-151708197492"
+repo = "git@github.com:JuliaPOMDP/Registry.git"
+
+description = """
+Registry for POMDPs.jl solvers and models"""
+
+[packages]
