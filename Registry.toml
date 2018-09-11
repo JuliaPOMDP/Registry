@@ -6,3 +6,10 @@ description = """
 Registry for POMDPs.jl solvers and models"""
 
 [packages]
+08074719-1b2a-587c-a292-00f91cc44415 = { name = "POMDPModelTools", path = "P/POMDPModelTools" }
+182e52fb-cfd0-5e46-8c26-fd0667c990f4 = { name = "POMDPPolicies", path = "P/POMDPPolicies" }
+355abbd5-f08e-5560-ac9e-8b5f2592a0ca = { name = "POMDPModels", path = "P/POMDPModels" }
+92e6a534-49c2-5324-9027-86e3c861ab81 = { name = "POMDPTesting", path = "P/POMDPTesting" }
+a93abf59-7444-517b-a68a-c42f96afdd7d = { name = "POMDPs", path = "P/POMDPs" }
+df77095f-98f0-51e5-a706-d0ff5a5ad33f = { name = "TabularTDLearning", path = "T/TabularTDLearning" }
+e0d0a172-29c6-5d4e-96d0-f262df5d01fd = { name = "POMDPSimulators", path = "P/POMDPSimulators" }
