@@ -1,0 +1,9 @@
+["0.1.0"]
+julia = "*"
+D3Trees = "*"
+CPUTime = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+Colors = "*"
+POMDPSimulators = "*"
+POMDPPolicies = "*"
