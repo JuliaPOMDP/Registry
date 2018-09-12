@@ -1,0 +1,10 @@
+["0.1.0"]
+BeliefUpdaters = "*"
+julia = "*"
+D3Trees = "*"
+POMDPTesting = "*"
+FIB = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+POMDPSimulators = "*"
+POMDPPolicies = "*"
