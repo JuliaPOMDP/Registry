@@ -7,6 +7,7 @@ Registry for POMDPs.jl solvers and models"""
 
 [packages]
 08074719-1b2a-587c-a292-00f91cc44415 = { name = "POMDPModelTools", path = "P/POMDPModelTools" }
+13b007ba-0ca8-5af2-9adf-bc6a6301e25a = { name = "FIB", path = "F/FIB" }
 182e52fb-cfd0-5e46-8c26-fd0667c990f4 = { name = "POMDPPolicies", path = "P/POMDPPolicies" }
 355abbd5-f08e-5560-ac9e-8b5f2592a0ca = { name = "POMDPModels", path = "P/POMDPModels" }
 3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2 = { name = "QMDP", path = "Q/QMDP" }
