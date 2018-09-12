@@ -1,29 +1,18 @@
 name = "JuliaPOMDP"
 uuid = "24473b4a-b5e7-11e8-1723-151708197492"
-repo = "git@github.com:JuliaPOMDP/Registry.git"
+repo = "http://github.com/JuliaPOMDP/Registry.git"
 
 description = """
-Registry for POMDPs.jl solvers and models"""
+Registry for POMDPs.jl solvers and models
+"""
 
 [packages]
-08074719-1b2a-587c-a292-00f91cc44415 = { name = "POMDPModelTools", path = "P/POMDPModelTools" }
 13b007ba-0ca8-5af2-9adf-bc6a6301e25a = { name = "FIB", path = "F/FIB" }
-182e52fb-cfd0-5e46-8c26-fd0667c990f4 = { name = "POMDPPolicies", path = "P/POMDPPolicies" }
-189a3867-3050-52da-a836-e630ba90ab69 = { name = "Reexport", path = "R/Reexport" }
-355abbd5-f08e-5560-ac9e-8b5f2592a0ca = { name = "POMDPModels", path = "P/POMDPModels" }
 3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2 = { name = "QMDP", path = "Q/QMDP" }
 3b430cce-3194-5812-b203-bf9e73c3e836 = { name = "AEMS", path = "A/AEMS" }
 4b033969-44f6-5439-a48b-c11fa3648068 = { name = "DiscreteValueIteration", path = "D/DiscreteValueIteration" }
-5ae59095-9a9b-59fe-a467-6f913c188581 = { name = "Colors", path = "C/Colors" }
-8bb6e9a1-7d73-552c-a44a-e5dc5634aac4 = { name = "BeliefUpdaters", path = "B/BeliefUpdaters" }
-92e6a534-49c2-5324-9027-86e3c861ab81 = { name = "POMDPTesting", path = "P/POMDPTesting" }
-9c8b4983-aa76-5018-a973-4c85ecc9e179 = { name = "LightXML", path = "L/LightXML" }
 9cf5b727-2e06-5671-8c87-8c6b0f729d5d = { name = "POMDPFiles", path = "P/POMDPFiles" }
 a575d7f4-a5df-53f5-8ba4-9d691c1ba8ff = { name = "POMDPSolve", path = "P/POMDPSolve" }
-a93abf59-7444-517b-a68a-c42f96afdd7d = { name = "POMDPs", path = "P/POMDPs" }
-a9c8d775-2e2e-55fc-8582-045d282d599e = { name = "CPUTime", path = "C/CPUTime" }
 c6f6ee83-58c6-5336-a19f-2c76817e1af6 = { name = "POMDPXFiles", path = "P/POMDPXFiles" }
 df77095f-98f0-51e5-a706-d0ff5a5ad33f = { name = "TabularTDLearning", path = "T/TabularTDLearning" }
-e0d0a172-29c6-5d4e-96d0-f262df5d01fd = { name = "POMDPSimulators", path = "P/POMDPSimulators" }
 e12ccd36-dcad-5f33-8774-9175229e7b33 = { name = "MCTS", path = "M/MCTS" }
-e3df1716-f71e-5df9-9e2d-98e193103c45 = { name = "D3Trees", path = "D/D3Trees" }
