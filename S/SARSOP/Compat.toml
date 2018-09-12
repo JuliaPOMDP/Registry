@@ -1,0 +1,6 @@
+["0.2.0"]
+BeliefUpdaters = "*"
+julia = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+POMDPXFiles = "*"
