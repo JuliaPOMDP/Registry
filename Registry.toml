@@ -14,7 +14,6 @@ Registry for POMDPs.jl solvers and models
 9cf5b727-2e06-5671-8c87-8c6b0f729d5d = { name = "POMDPFiles", path = "P/POMDPFiles" }
 a40420fb-f401-52da-a663-f502e5b95060 = { name = "LocalApproximationValueIteration", path = "L/LocalApproximationValueIteration" }
 a575d7f4-a5df-53f5-8ba4-9d691c1ba8ff = { name = "POMDPSolve", path = "P/POMDPSolve" }
-a93abf59-7444-517b-a68a-c42f96afdd7d = { name = "POMDPs", path = "P/POMDPs" }
 c6f6ee83-58c6-5336-a19f-2c76817e1af6 = { name = "POMDPXFiles", path = "P/POMDPXFiles" }
 cef570c6-3a94-5604-96b7-1a5e143043f2 = { name = "SARSOP", path = "S/SARSOP" }
 df77095f-98f0-51e5-a706-d0ff5a5ad33f = { name = "TabularTDLearning", path = "T/TabularTDLearning" }
