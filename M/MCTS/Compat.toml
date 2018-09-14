@@ -7,3 +7,13 @@ POMDPs = "*"
 Colors = "*"
 POMDPSimulators = "*"
 POMDPPolicies = "*"
+
+["0.2.0"]
+julia = "*"
+D3Trees = "*"
+CPUTime = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+Colors = "*"
+POMDPSimulators = "*"
+POMDPPolicies = "*"
