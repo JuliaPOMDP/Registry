@@ -1,0 +1,3 @@
+name = "BlinkPOMDPSimulator"
+uuid = "cd197ee6-b873-11e8-324e-2bd8ebd9d51c"
+repo = "https://github.com/JuliaPOMDP/BlinkPOMDPSimulator.jl"
