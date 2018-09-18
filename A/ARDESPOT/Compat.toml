@@ -1,0 +1,9 @@
+["0.2.0"]
+BeliefUpdaters = "*"
+julia = "*"
+D3Trees = "*"
+CPUTime = "*"
+BasicPOMCP = "*"
+Parameters = "*"
+POMDPs = "*"
+ParticleFilters = "*"
