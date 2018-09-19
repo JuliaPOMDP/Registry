@@ -22,3 +22,12 @@ d721219e-3fc6-5570-a8ef-e5402f47c49e = { name = "BasicPOMCP", path = "B/BasicPOM
 d96c9ae4-3372-47d5-8a88-316ae77be8cf = { name = "ARDESPOT", path = "A/ARDESPOT" }
 df77095f-98f0-51e5-a706-d0ff5a5ad33f = { name = "TabularTDLearning", path = "T/TabularTDLearning" }
 e12ccd36-dcad-5f33-8774-9175229e7b33 = { name = "MCTS", path = "M/MCTS" }
+0729bffe-8e6b-52fa-a3fa-893719b744f4 = { name = "POMDPToolbox", path = "P/POMDPToolbox" }
+08074719-1b2a-587c-a292-00f91cc44415 = { name = "POMDPModelTools", path = "P/POMDPModelTools" }
+182e52fb-cfd0-5e46-8c26-fd0667c990f4 = { name = "POMDPPolicies", path = "P/POMDPPolicies" }
+355abbd5-f08e-5560-ac9e-8b5f2592a0ca = { name = "POMDPModels", path = "P/POMDPModels" }
+92e6a534-49c2-5324-9027-86e3c861ab81 = { name = "POMDPTesting", path = "P/POMDPTesting" }
+a93abf59-7444-517b-a68a-c42f96afdd7d = { name = "POMDPs", path = "P/POMDPs" }
+e0d0a172-29c6-5d4e-96d0-f262df5d01fd = { name = "POMDPSimulators", path = "P/POMDPSimulators" }
+d96e819e-fc66-5662-9728-84c9c7592b0a = { name = "Parameters", path = "P/Parameters" }
+ae029012-a4dd-5104-9daa-d747884805df = { name = "Requires", path = "R/Requires" }
