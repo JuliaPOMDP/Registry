@@ -1,0 +1,9 @@
+["0.2.0"]
+julia = "*"
+StaticArrays = "*"
+GridInterpolations = "*"
+POMDPModelTools = "*"
+Plots = "*"
+Parameters = "*"
+POMDPs = "*"
+POMDPModels = "*"

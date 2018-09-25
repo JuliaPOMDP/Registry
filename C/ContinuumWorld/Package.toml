@@ -1,0 +1,3 @@
+name = "ContinuumWorld"
+uuid = "5cbb95a3-277b-5373-895a-7e14bd91b3cc"
+repo = "https://github.com/JuliaPOMDP/ContinuumWorld.jl"
