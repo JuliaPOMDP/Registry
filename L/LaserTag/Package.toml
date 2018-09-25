@@ -1,0 +1,3 @@
+name = "LaserTag"
+uuid = "041f53e1-e4f8-54ec-814d-e9e995aa38d4"
+repo = "https://github.com/JuliaPOMDP/LaserTag.jl"
