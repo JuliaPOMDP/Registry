@@ -24,3 +24,16 @@ d721219e-3fc6-5570-a8ef-e5402f47c49e = { name = "BasicPOMCP", path = "B/BasicPOM
 d96c9ae4-3372-47d5-8a88-316ae77be8cf = { name = "ARDESPOT", path = "A/ARDESPOT" }
 df77095f-98f0-51e5-a706-d0ff5a5ad33f = { name = "TabularTDLearning", path = "T/TabularTDLearning" }
 e12ccd36-dcad-5f33-8774-9175229e7b33 = { name = "MCTS", path = "M/MCTS" }
+15f4f7f2-30c1-5605-9d31-71845cf9641f = { name = "AutoHashEquals", path = "A/AutoHashEquals" }
+182e52fb-cfd0-5e46-8c26-fd0667c990f4 = { name = "POMDPPolicies", path = "P/POMDPPolicies" }
+276daf66-3868-5448-9aa4-cd146d93841b = { name = "SpecialFunctions", path = "S/SpecialFunctions" }
+2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91 = { name = "StatsBase", path = "S/StatsBase" }
+31c24e10-a181-5473-b8eb-7969acd0382f = { name = "Distributions", path = "D/Distributions" }
+355abbd5-f08e-5560-ac9e-8b5f2592a0ca = { name = "POMDPModels", path = "P/POMDPModels" }
+37f6aa50-8035-52d0-81c2-5a1d08754b2d = { name = "TikzPictures", path = "T/TikzPictures" }
+90137ffa-7385-5640-81b9-e52037218182 = { name = "StaticArrays", path = "S/StaticArrays" }
+a93abf59-7444-517b-a68a-c42f96afdd7d = { name = "POMDPs", path = "P/POMDPs" }
+d96e819e-fc66-5662-9728-84c9c7592b0a = { name = "Parameters", path = "P/Parameters" }
+c8b314e2-9260-5cf8-ae76-3be7461ca6d0 = { name = "ParticleFilters", path = "P/ParticleFilters" }
+c8e1da08-722c-5040-9ed9-7db0dc04731e = { name = "IterTools", path = "I/IterTools" }
+08074719-1b2a-587c-a292-00f91cc44415 = { name = "POMDPModelTools", path = "P/POMDPModelTools" }
