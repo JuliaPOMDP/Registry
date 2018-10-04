@@ -5,3 +5,11 @@ POMDPModelTools = "*"
 POMDPFiles = "*"
 POMDPs = "*"
 Reexport = "*"
+
+["0.1.1"]
+BeliefUpdaters = "*"
+julia = "*"
+POMDPModelTools = "*"
+POMDPFiles = "*"
+POMDPs = "*"
+Reexport = "*"
