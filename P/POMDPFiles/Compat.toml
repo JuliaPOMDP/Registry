@@ -4,3 +4,10 @@ POMDPModelTools = "*"
 POMDPs = "*"
 POMDPXFiles = "*"
 Reexport = "*"
+
+["0.1.1"]
+julia = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+POMDPXFiles = "*"
+Reexport = "*"
