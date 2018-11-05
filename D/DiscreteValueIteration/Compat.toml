@@ -3,3 +3,9 @@ julia = "*"
 POMDPModelTools = "*"
 POMDPs = "*"
 POMDPPolicies = "*"
+
+["0.3.0"]
+julia = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+POMDPPolicies = "*"
