@@ -27,10 +27,3 @@ d96c9ae4-3372-47d5-8a88-316ae77be8cf = { name = "ARDESPOT", path = "A/ARDESPOT" 
 de0a67f4-c691-11e8-0034-5fc6e16e22d3 = { name = "DeepQLearning", path = "D/DeepQLearning" }
 df77095f-98f0-51e5-a706-d0ff5a5ad33f = { name = "TabularTDLearning", path = "T/TabularTDLearning" }
 e12ccd36-dcad-5f33-8774-9175229e7b33 = { name = "MCTS", path = "M/MCTS" }
-8bb6e9a1-7d73-552c-a44a-e5dc5634aac4 = { name = "BeliefUpdaters", path = "B/BeliefUpdaters" }
-e3df1716-f71e-5df9-9e2d-98e193103c45 = { name = "D3Trees", path = "D/D3Trees" }
-a9c8d775-2e2e-55fc-8582-045d282d599e = { name = "CPUTime", path = "C/CPUTime" }
-a93abf59-7444-517b-a68a-c42f96afdd7d = { name = "POMDPs", path = "P/POMDPs" }
-74e4bba8-bad1-5cfd-9e93-3875e29503ec = { name = "AutoTypeParameters", path = "A/AutoTypeParameters" }
-d96e819e-fc66-5662-9728-84c9c7592b0a = { name = "Parameters", path = "P/Parameters" }
-c8b314e2-9260-5cf8-ae76-3be7461ca6d0 = { name = "ParticleFilters", path = "P/ParticleFilters" }
