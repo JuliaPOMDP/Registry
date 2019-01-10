@@ -1,0 +1,8 @@
+["0.2.1"]
+julia = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+Clp = "*"
+ParticleFilters = "*"
+POMDPPolicies = "*"
+JuMP = "*"
