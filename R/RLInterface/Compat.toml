@@ -4,3 +4,10 @@ julia = "*"
 POMDPModelTools = "*"
 POMDPs = "*"
 ZMQ = "*"
+
+["0.3.0"]
+JSON = "*"
+julia = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+ZMQ = "*"
