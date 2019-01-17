@@ -1,0 +1,9 @@
+["0.1.0"]
+julia = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+Parameters = "*"
+POMDPSimulators = "*"
+ProgressMeter = "*"
+Reel = "*"
+POMDPPolicies = "*"
