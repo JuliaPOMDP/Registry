@@ -1,4 +1,11 @@
 ["0.2.0"]
 julia = "*"
+LocalFunctionApproximation = "*"
+POMDPModelTools = "*"
+POMDPs = "*"
+
+["0.2.1"]
+julia = "*"
+LocalFunctionApproximation = "*"
 POMDPModelTools = "*"
 POMDPs = "*"
