@@ -1,17 +1,2 @@
-["0.1.0"]
+["0.3.1"]
 julia = "*"
-POMDPModelTools = "*"
-POMDPs = "*"
-POMDPPolicies = "*"
-
-["0.2.0"]
-julia = "*"
-POMDPModelTools = "*"
-POMDPs = "*"
-POMDPPolicies = "*"
-
-["0.3.0"]
-julia = "*"
-POMDPModelTools = "*"
-POMDPs = "*"
-POMDPPolicies = "*"
