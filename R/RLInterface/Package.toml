@@ -1,3 +1,3 @@
 name = "RLInterface"
+repo = "https://github.com/JuliaPOMDP/RLInterface.jl"
 uuid = "3065fe53-3878-5aed-aae7-ab641be43734"
-repo = "https://github.com/JuliaPOMDP/RLInterface.jl.git"
