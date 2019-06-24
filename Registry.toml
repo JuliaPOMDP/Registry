@@ -9,6 +9,7 @@ Registry for POMDPs.jl solvers and models
 [packages]
 041f53e1-e4f8-54ec-814d-e9e995aa38d4 = { name = "LaserTag", path = "L/LaserTag" }
 13b007ba-0ca8-5af2-9adf-bc6a6301e25a = { name = "FIB", path = "F/FIB" }
+277f244e-4908-11e9-33c2-5d5365097ef8 = { name = "GlobalApproximationValueIteration", path = "G/GlobalApproximationValueIteration" }
 3065fe53-3878-5aed-aae7-ab641be43734 = { name = "RLInterface", path = "R/RLInterface" }
 30d33687-f7ed-5b0d-8b26-3dc9b7abd572 = { name = "MCVI", path = "M/MCVI" }
 3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2 = { name = "QMDP", path = "Q/QMDP" }
