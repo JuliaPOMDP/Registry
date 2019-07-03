@@ -1,21 +1,3 @@
-["0.2.0"]
+["0.3.1"]
+Flux = "≥ 0.8.3"
 julia = "*"
-RLInterface = "*"
-StatsBase = "*"
-BSON = "*"
-POMDPModelTools = "*"
-Flux = "*"
-POMDPs = "*"
-Parameters = "*"
-POMDPPolicies = "*"
-
-["0.3.0"]
-julia = "*"
-RLInterface = "*"
-StatsBase = "*"
-BSON = "*"
-POMDPModelTools = "*"
-Flux = "*"
-POMDPs = "*"
-Parameters = "*"
-POMDPPolicies = "*"
