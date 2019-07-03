@@ -1,20 +1,2 @@
-["0.1.0"]
-Compose = "*"
+["0.1.2"]
 julia = "*"
-POMDPModelTools = "*"
-Blink = "*"
-POMDPs = "*"
-Parameters = "*"
-POMDPSimulators = "*"
-POMDPModels = "*"
-POMDPPolicies = "*"
-
-["0.1.1"]
-julia = "*"
-POMDPModelTools = "*"
-Blink = "*"
-Parameters = "*"
-POMDPs = "*"
-POMDPSimulators = "*"
-Requires = "*"
-POMDPPolicies = "*"
