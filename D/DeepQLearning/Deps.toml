@@ -10,10 +10,7 @@ PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 DeepRL = "3065fe53-3878-5aed-aae7-ab641be43734"
 TensorFlow = "1d978283-2c37-5f34-9a8e-e9c0ece82495"
 
-["0.3.0-0.3.1"]
-LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-
-["0.1.0-0.3.1"]
+["0.1.0-0.3.4"]
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
 POMDPModelTools = "08074719-1b2a-587c-a292-00f91cc44415"
@@ -22,10 +19,13 @@ POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
 Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 
-["0.3.1"]
+["0.3.1-0.3.4"]
 TensorBoardLogger = "899adc3e-224a-11e9-021f-63837185c80f"
 
-["0.2.0-0.3.1"]
+["0.2.0-0.3.4"]
 RLInterface = "3065fe53-3878-5aed-aae7-ab641be43734"
 Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
 POMDPPolicies = "182e52fb-cfd0-5e46-8c26-fd0667c990f4"
+
+["0.3.0-0.3.4"]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
