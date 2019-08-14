@@ -1,4 +1,4 @@
 ["0.3.1"]
-POMDPModelTools = ">= 0.1.7"
-POMDPPolicies = ">= 0.1.4"
+POMDPModelTools = "0.1.7-*"
+POMDPPolicies = "0.1.4-*"
 julia = "*"
