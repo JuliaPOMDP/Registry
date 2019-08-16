@@ -27,7 +27,7 @@ cd197ee6-b873-11e8-324e-2bd8ebd9d51c = { name = "BlinkPOMDPSimulator", path = "B
 cef570c6-3a94-5604-96b7-1a5e143043f2 = { name = "SARSOP", path = "S/SARSOP" }
 d721219e-3fc6-5570-a8ef-e5402f47c49e = { name = "BasicPOMCP", path = "B/BasicPOMCP" }
 d96c9ae4-3372-47d5-8a88-316ae77be8cf = { name = "ARDESPOT", path = "A/ARDESPOT" }
-de008ff0-c357-11e8-3329-7fe746fe836e = { name = "RockSample", path = "R\\RockSample" }
+de008ff0-c357-11e8-3329-7fe746fe836e = { name = "RockSample", path = "R/RockSample" }
 de0a67f4-c691-11e8-0034-5fc6e16e22d3 = { name = "DeepQLearning", path = "D/DeepQLearning" }
 df77095f-98f0-51e5-a706-d0ff5a5ad33f = { name = "TabularTDLearning", path = "T/TabularTDLearning" }
 e12ccd36-dcad-5f33-8774-9175229e7b33 = { name = "MCTS", path = "M/MCTS" }
