@@ -1,31 +1,17 @@
-["0.1.0"]
-julia = "*"
-D3Trees = "*"
+["0-0.3"]
 CPUTime = "*"
-POMDPModelTools = "*"
-POMDPs = "*"
 Colors = "*"
-POMDPSimulators = "*"
+D3Trees = "*"
+POMDPModelTools = "*"
 POMDPPolicies = "*"
+POMDPSimulators = "*"
+POMDPs = "*"
+julia = "*"
 
-["0.2.0"]
-julia = "*"
-D3Trees = "*"
-CPUTime = "*"
-POMDPModelTools = "*"
-POMDPs = "*"
-Colors = "*"
-POMDPSimulators = "*"
-POMDPPolicies = "*"
-
-["0.3.0"]
-julia = "*"
-D3Trees = "*"
-CPUTime = "*"
-POMDPModelTools = "*"
-POMDPs = "*"
-Colors = "*"
-POMDPSimulators = "*"
-POMDPPolicies = "*"
+["0.3"]
 Printf = "*"
 Random = "*"
+
+["0.4-0"]
+POMDPs = "0.7.3-0.8"
+julia = "1"
