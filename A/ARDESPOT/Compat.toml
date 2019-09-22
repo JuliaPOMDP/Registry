@@ -1,20 +1,16 @@
-["0.2.0"]
-BeliefUpdaters = "*"
-julia = "*"
-D3Trees = "*"
-CPUTime = "*"
+["0-0.2"]
 BasicPOMCP = "*"
-Parameters = "*"
+BeliefUpdaters = "*"
+CPUTime = "*"
+D3Trees = "*"
 POMDPs = "*"
+Parameters = "*"
 ParticleFilters = "*"
+julia = "*"
 
-["0.2.1"]
-BeliefUpdaters = "*"
-D3Trees = "*"
-CPUTime = "*"
-julia = "*"
-BasicPOMCP = "*"
+["0.2.1-0.2"]
 POMDPModelTools = "*"
-POMDPs = "*"
-Parameters = "*"
-ParticleFilters = "*"
+
+["0.3-0"]
+POMDPs = "0.7.3-0.8"
+julia = "1"
