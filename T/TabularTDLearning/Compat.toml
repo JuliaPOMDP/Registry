@@ -1,5 +1,8 @@
-["0.2.0"]
-julia = "*"
-POMDPs = "*"
-POMDPSimulators = "*"
+["0-0.2"]
 POMDPPolicies = "*"
+POMDPSimulators = "*"
+POMDPs = "*"
+julia = "*"
+
+["0.3-0"]
+POMDPs = "0.7.3-0.8"
