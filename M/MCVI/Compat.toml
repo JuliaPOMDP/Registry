@@ -1,5 +1,9 @@
-["0.2.0"]
+["0-0.2"]
 JSON = "*"
-julia = "*"
 POMDPs = "*"
 ParticleFilters = "*"
+julia = "*"
+
+["0.3-0"]
+POMDPs = "0.7.3-0.8"
+julia = "1"

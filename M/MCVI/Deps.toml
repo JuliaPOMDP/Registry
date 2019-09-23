@@ -1,9 +1,9 @@
-["0.2.0"]
-JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
-Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
-LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
-POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
-Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
-ParticleFilters = "c8b314e2-9260-5cf8-ae76-3be7461ca6d0"
+[0]
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
+ParticleFilters = "c8b314e2-9260-5cf8-ae76-3be7461ca6d0"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
