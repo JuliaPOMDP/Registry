@@ -1,15 +1,11 @@
-["0.1.0"]
+["0-0.1"]
 BeliefUpdaters = "*"
-julia = "*"
-POMDPModelTools = "*"
 POMDPFiles = "*"
+POMDPModelTools = "*"
 POMDPs = "*"
 Reexport = "*"
+julia = "*"
 
-["0.1.1"]
-BeliefUpdaters = "*"
-julia = "*"
-POMDPModelTools = "*"
-POMDPFiles = "*"
-POMDPs = "*"
-Reexport = "*"
+["0.2-0"]
+POMDPs = "0.7-0.8"
+julia = "1"
