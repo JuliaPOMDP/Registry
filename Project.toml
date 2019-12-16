@@ -1,0 +1,16 @@
+name = "Registry"
+uuid = "eafafbec-2069-471e-ae82-4d3868af8a49"
+authors = "rejuvyesh"
+version = "0.0.1"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
