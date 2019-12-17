@@ -27,6 +27,7 @@ abefb91b-a28c-5ab9-9bd9-026e532d7b0e = { name = "POMDPModelChecking", path = "P\
 c6f6ee83-58c6-5336-a19f-2c76817e1af6 = { name = "POMDPXFiles", path = "P/POMDPXFiles" }
 cd197ee6-b873-11e8-324e-2bd8ebd9d51c = { name = "BlinkPOMDPSimulator", path = "B/BlinkPOMDPSimulator" }
 cef570c6-3a94-5604-96b7-1a5e143043f2 = { name = "SARSOP", path = "S/SARSOP" }
+d6851e30-d4b8-11e9-06de-0b345e2a813d = { name = "BeliefGridValueIteration", path = "B\\BeliefGridValueIteration" }
 d721219e-3fc6-5570-a8ef-e5402f47c49e = { name = "BasicPOMCP", path = "B/BasicPOMCP" }
 d96c9ae4-3372-47d5-8a88-316ae77be8cf = { name = "ARDESPOT", path = "A/ARDESPOT" }
 de008ff0-c357-11e8-3329-7fe746fe836e = { name = "RockSample", path = "R/RockSample" }
