@@ -1,21 +1,16 @@
-["0.2.0"]
-julia = "*"
-StaticArrays = "*"
+["0-0.2"]
 GridInterpolations = "*"
 POMDPModelTools = "*"
-Plots = "*"
-Parameters = "*"
-POMDPs = "*"
 POMDPModels = "*"
+POMDPs = "*"
+Parameters = "*"
+Plots = "*"
+StaticArrays = "*"
+julia = "*"
 
-["0.2.1"]
-julia = "*"
-StaticArrays = "*"
-GridInterpolations = "*"
-POMDPModelTools = "*"
-Plots = "*"
-Parameters = "*"
-POMDPs = "*"
-POMDPModels = "*"
+["0.2.1-0.2"]
 LinearAlgebra = "*"
 Random = "*"
+
+["0.3-0"]
+POMDPs = "0.8"
