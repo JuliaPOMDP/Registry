@@ -8,5 +8,12 @@ julia = "*"
 POMDPs = "0.7.3-0.8"
 
 ["0.3.1-0"]
-POMDPPolicies = "0.2.1-0.2"
 julia = "1"
+
+["0.3.1-0.3"]
+POMDPPolicies = "0.2.1-0.2"
+
+["0.4-0"]
+POMDPPolicies = "0.3"
+POMDPSimulators = "0.3"
+Parameters = "0.12"
