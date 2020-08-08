@@ -10,16 +10,16 @@ POMDPs = ["0.7.3-0.7", "0.9"]
 ["0.3.6"]
 julia = "*"
 
-["0.3.7-0"]
-POMDPs = "0.7.3-0.8"
-
 ["0.3.7-0.3"]
 Flux = "0.8.3-0.8"
 
 ["0.3.7-0.4.5"]
 RLInterface = "0.3.2-0.3"
 
-["0.4-0"]
+["0.3.7-0.5.0"]
+POMDPs = "0.7.3-0.8"
+
+["0.4-0.5.0"]
 Flux = "0.10"
 
 ["0.4.2-0"]
@@ -34,8 +34,16 @@ RLInterface = "0.3.6-0.3"
 ["0.5-0"]
 BSON = "0.2"
 EllipsisNotation = "0.4"
-POMDPModelTools = "0.2"
 POMDPPolicies = "0.3"
 Parameters = "0.12"
-StatsBase = "0.32"
 TensorBoardLogger = "0.1"
+
+["0.5.0"]
+POMDPModelTools = "0.2"
+StatsBase = "0.32"
+
+["0.5.1-0"]
+Flux = "0.10-0.11"
+POMDPModelTools = "0.3"
+POMDPs = "0.9"
+StatsBase = "0.32-0.33"
