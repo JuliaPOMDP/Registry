@@ -2,5 +2,15 @@
 julia = "*"
 
 ["0.2-0"]
-POMDPs = "0.7.3-0.8"
 julia = "1"
+
+["0.2.0"]
+POMDPs = "0.7.3-0.8"
+
+["0.2.1-0"]
+Flux = "0.9"
+MultivariateStats = "0.7"
+POMDPLinter = "0.1"
+POMDPModelTools = "0.3"
+POMDPPolicies = "0.3"
+POMDPs = "0.9"
