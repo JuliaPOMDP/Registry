@@ -6,5 +6,12 @@ Reexport = "*"
 julia = "*"
 
 ["0.2-0"]
-POMDPs = "0.8"
 julia = "1"
+
+["0.2-0.2.1"]
+POMDPs = "0.8"
+
+["0.2.2-0"]
+POMDPModelTools = "0.2-0.3"
+POMDPs = "0.9"
+Reexport = "0.2"
