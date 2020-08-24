@@ -12,5 +12,16 @@ julia = "*"
 POMDPModelTools = "*"
 
 ["0.3-0"]
-POMDPs = "0.7.3-0.8"
 julia = "1"
+
+["0.3-0.3.2"]
+POMDPs = "0.7.3-0.8"
+
+["0.3.3-0"]
+BeliefUpdaters = "0.1-0.2"
+CPUTime = "1"
+D3Trees = "0.3"
+POMDPModelTools = "0.2-0.3"
+POMDPs = "0.9"
+Parameters = "0.12"
+ParticleFilters = "0.4-0.5"
